@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Harar",
+        "coordinates": {
+            "latitude": 9.3077,
+            "longitude": 42.1258
+        },
+        "description": "A historic city in eastern Ethiopia, known for its unique culture and architecture."
+    },
+    {
+        "name": "Dire Dawa",
+        "coordinates": {
+            "latitude": 9.5900,
+            "longitude": 41.8661
+        },
+        "description": "A city in eastern Ethiopia, known for its railway history and diverse population."
+    },
+    {
+        "name": "Bale Mountains National Park",
+        "coordinates": {
+            "latitude": 6.8000,
+            "longitude": 39.5000
+        },
+        "description": "A national park in Ethiopia known for its stunning landscapes and wildlife."
+    },
+    {
+        "name": "Simien Mountains National Park",
+        "coordinates": {
+            "latitude": 13.2000,
+            "longitude": 38.2500
+        },
+        "description": "A UNESCO World Heritage site known for its dramatic mountain scenery and endemic wildlife."
+    },
+    {
+        "name": "Addis Ababa",
+        "coordinates": {
+            "latitude": 9.1450,
+            "longitude": 40.4897
+        },
+        "description": "The capital city of Ethiopia, known for its historical sites and vibrant culture."
+    }
+]

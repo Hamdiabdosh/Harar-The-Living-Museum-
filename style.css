@@ -1,0 +1,27 @@
+/* Custom Styles */
+body {
+    font-family: 'Lato', sans-serif;
+  }
+  
+  header {
+    background-color: #68D0D6;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+  }
+  
+  #hero {
+    background: url('hero-background.jpg') no-repeat center center/cover;
+    color: FBFADF;
+    padding: 100px 0;
+  }
+  
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #205B5F;
+  }
